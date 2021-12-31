@@ -1,3 +1,3 @@
-# Going to be practicing Webscraping with celineum. 
+# Going to be practicing webscraping with Celineum. 
 
 - Project Coming Soon
